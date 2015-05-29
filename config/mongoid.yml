@@ -1,0 +1,7 @@
+development: &default_mongo_connection
+  sessions:
+    default:
+      hosts: [192.168.0.136]
+      database: tweets-hack
+production:
+  <<: *default_mongo_connection
