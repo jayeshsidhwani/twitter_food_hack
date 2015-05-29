@@ -1,0 +1,10 @@
+consumer_key: 'zZsTC6U8dVyH68GOVMWdFP4xY'
+consumer_secret: 'khjEaf4kBMXVbOQZeHy2g2BvUFX03AkHz9ujQbahhJdDzSLp5a'
+access_token: '18047632-b5jBvZHL3mUXeDuCKodI284fdjou0qEZvw96EzaRI'
+access_token_secret: 'fmbN83U2JX3eRpX3xtXfc7Q1UgctLWx5yUDaOa2cMQ9Xj'
+
+# City bounding boxes
+bangalore: '12.971599,77.594563,500km'
+mumbai: '19.075984,72.877656,500km'
+chennai: '13.082680,80.270718,500km'
+gurgaon: '28.459497,77.026638,500km'
